@@ -1,0 +1,23 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "\t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajaSattyam/node-weather-app.git"
+  },
+  "author": "ashu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajaSattyam/node-weather-app/issues"
+  },
+  "homepage": "https://github.com/RajaSattyam/node-weather-app#readme",
+  "dependencies": {
+    "request": "^2.85.0",
+    "yargs": "^11.0.0"
+  }
+}
