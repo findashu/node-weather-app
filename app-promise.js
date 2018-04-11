@@ -37,9 +37,3 @@ axios.get(geoCodeUrl).then((response) => {
         console.log(e.message);
     }
 });
-
-
-
-
-
-
